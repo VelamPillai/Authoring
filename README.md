@@ -2,7 +2,7 @@
 
 ## Checkboxes
 - [x] External Link
-- [ ] Internal Link
+- [x] Internal Link
 - [ ] Images
 - [ ] Emojis
 - [ ] tables
