@@ -1,7 +1,7 @@
 # Github Flavoured Markdown
 
 ## Checkboxes
-- [*] External Link
+- [x] External Link
 - [ ] Internal Link
 - [ ] Images
 - [ ] Emojis
